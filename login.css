@@ -67,3 +67,12 @@ h1{
         width: 25vw;
     }
 }
+@media (max-width:600px){
+    h1{font-size: 3rem;}
+    .textwarp,.passwordwarp{
+        scale: 1.2;
+    }
+    .btn{
+        font-size: 1.5rem;
+    }
+}
